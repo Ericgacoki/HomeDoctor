@@ -1,7 +1,7 @@
 package com.ericg.homedoctor
 
 import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
+import android.os.Bundles
 
 class MainActivity : AppCompatActivity() {
 // todo(): continue the project
