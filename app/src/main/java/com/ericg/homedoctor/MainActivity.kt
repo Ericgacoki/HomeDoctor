@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundles
 
 class MainActivity : AppCompatActivity() {
-// todo(): continue the project
+// todo(): continue the projecty
 // todo (): recyclerview with a snap helper for first aid
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
