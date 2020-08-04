@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-       // use coroutines to async data and populate it to a recycler
+       // use coroutines to async data and populate it to a recyclerView
     }
 }
