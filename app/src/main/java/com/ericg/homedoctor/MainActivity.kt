@@ -5,7 +5,7 @@ import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
 // todo(): continue the project...
-// todo (): recyclerview with a snap helper for first ai
+// todo (): recyclerview with a snap helper for first a
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
